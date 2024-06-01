@@ -1,5 +1,12 @@
-{"properties": [{
-  "name": "rest.template.baseUrl",
-  "type": "java.lang.String",
-  "description": "A description for 'rest.template.baseUrl'"
-}]}
+{"properties": [
+  {
+    "name": "rest.template.baseUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'rest.template.baseUrl'"
+  },
+  {
+    "name": "rest.template.baseUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'rest.template.baseUrl'"
+  }
+]}
